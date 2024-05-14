@@ -1,0 +1,9 @@
+#edit-custom:hover {
+    color: green;
+    transition: 0.2s;
+}
+
+#delete-custom:hover {
+    color: red;
+    transition: 0.2s;
+}
